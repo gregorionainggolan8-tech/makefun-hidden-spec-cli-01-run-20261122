@@ -1,6 +1,8 @@
 # mend
 
 [![make.fun bounty](https://make.fun/bounty/hidden-spec-cli-01-run-20261122)](https://make.fun/bounty/hidden-spec-cli-01-run-20261122)
+[![license](https://img.shields.io/badge/license-MIT-green)](LICENSE)
+[![node](https://img.shields.io/badge/node-22-brightgreen)](https://nodejs.org)
 
 `mend` applies an edit that an AI model wrote to a tree of text files, in one
 of four formats: unified diff (often with wrong line numbers), SEARCH/REPLACE
